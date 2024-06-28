@@ -13,9 +13,8 @@ Answer the following questions based on your understanding of how to pitch a sof
 2. Problem Statement:
    - Describe the importance of a clear problem statement in a software project pitch. How do you effectively communicate the problem your software aims to solve?
 
-3. Solution Description:
-   - What key elements should be included when describing the solution in your pitch? Provide an example of a concise and compelling solution description.
-
+2. Problem Statement:
+   - Describe the importance of a clear problem statement in a software project pitch. How do you effectively communicate the problem your software aims to solve?
 4. Market Analysis:
    - Why is market analysis crucial in a software project pitch? What kind of market information should you include to strengthen your pitch?
 
